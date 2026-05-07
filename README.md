@@ -43,6 +43,7 @@ The coding technique I want to explore is using p5.js `millis()` to control time
 [Example Implementation: Timing Events with millis()](https://editor.p5js.org/enickles/sketches/MBgdwrdPB)
 
 [Example Code: Timing Events with millis()](https://editor.p5js.org/enickles/sketches/MBgdwrdPB)
+
 ---
 
 ## References / Sources
