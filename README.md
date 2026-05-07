@@ -1,4 +1,5 @@
 # Quiz 8: Design Research
+**Name:** Jiayi Hou
 Quiz 8 design research for a creative coding project using p5.js.
 
 ## Part 1: Imaging Technique Inspiration
