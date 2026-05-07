@@ -1,13 +1,17 @@
 # Quiz 8: Design Research
-**Name:** Jiayi Hou
 Quiz 8 design research for a creative coding project using p5.js.
+
+Jiayi Hou 
+
+ID:jhou0739
 
 ## Part 1: Imaging Technique Inspiration
 ### Inspiration Example
 **Artwork / Project:** *Flowers Bloom on People*  
 **Artist / Studio:** teamLab  
 **Year:** 2017  
-**Technique focus:** Time-based blooming and fading visual effect 
+**Technique focus:** Time-based blooming and fading visual effect
+
 **Source:** [teamLab — Flowers Bloom on People](https://www.teamlab.art/w/flowersbloom-on-people/)
 
 ### Images
